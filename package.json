@@ -1,6 +1,6 @@
 {
   "name": "remark-basepath",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "`remark` plugin to convert the base path of image and link.",
   "repository": "github:kmkzt/remark-basepath",
   "homepage": "https://github.com/kmkzt/remark-basepath",
@@ -21,7 +21,10 @@
   "devDependencies": {
     "remark": "12.0.1"
   },
-  "keywords": ["remark", "basepath"],
+  "keywords": [
+    "remark",
+    "basepath"
+  ],
   "author": "kmkzt",
   "license": "MIT"
 }
